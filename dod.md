@@ -3,7 +3,9 @@ Team: Maximilian Schetter, Robin Mühlemann, Dominik Bieri, Justin Tscherrig
 
 Alle Arbeiten sind auf GitHub hochgeladen
 
-Sprache getestet (korrektes englisch, CamelCase, PascalCase, Methoden im substantiv)
+Sprache getestet (korrektes englisch, camelCase, PascalCase, Methoden im substantiv)
+camelCase -> Methoden, lokale Variablen, Argumente
+PascalCase -> Klassen
 
 Code strukturiert (nach intellij standart)
 

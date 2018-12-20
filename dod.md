@@ -7,7 +7,7 @@ Sprache getestet (korrektes englisch, CamelCase, PascalCase, Methoden im substan
 
 Code strukturiert (nach intellij standart)
 
-Code kommentiert 
+Code kommentiert (Auch nach mehreren Jahren verständlich)
 
 Der Code ist kompilierbar
 
